@@ -25,7 +25,7 @@ participants come from many different backgrounds, so tailor your content for no
 * Create a fork of this repository by clicking on the "Fork" button on the top right
 * This will bring you to the fork at the address <https://github.com/YOURUSERNAME/sdsc-summer-institute-2020>
 * Enter in the `3.2_lightning_round` folder
-* Click on the "Upload files" button on the top-right
+* Click on the "Add file" button on the top-right and select "Upload files"
 * Drag or upload `firstname.lastname.pdf` and wait for the progress bar to be completely full
 * Down below the optional commit message, click on "Create a new branch for this commit and start a pull request"
 * Click on "Propose changes"
